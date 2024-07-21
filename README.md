@@ -5,6 +5,16 @@
 
 sql - 1 week
 
+
+
+التطبيق كان على sql on line
+
+https://livesql.oracle.com/apex/f?p=590:1000
+
+
+
+
+
 Python functions in general - 2 week 
 
 Python libraries in general for data analysis - 3 week
