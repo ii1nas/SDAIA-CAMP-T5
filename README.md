@@ -15,6 +15,12 @@ Machine language
 
 Deep language
 
+
+رابط ملفات منهج T5
+https://drive.google.com/drive/folders/1rX3ysmpgfZl-uJEOob3nin0lfiDsxjxw
+
+
+
 مرفق لكم هنا ملفات المشاريع الذي قمنا بالعمل عليها وايضا ملفات بعض من منهج المعسكر ومجموعة الموديلز 
 
 رابط قروب تجميعات المعسكر وكل التفاصيل التي تخصه 
