@@ -19,11 +19,11 @@ Python functions in general - 2 week
 
 Python libraries in general for data analysis - 3 week
 
-بعد كذا تبدون تتعمقون وتدخلون بمجال علم البيانات فاتمارسون لغات علم البيانات والذكاء الاصطناعي ومن تدريب النموذج واختباره وتعلم اكثر من موديل
+بعد ذلك لغات تعلم الذكاء الاصطناعي من
 
-Machine language
+- Machine language
 
-Deep language
+- Deep language
 
 
 رابط ملفات منهج T5
@@ -31,9 +31,10 @@ Deep language
 
 https://drive.google.com/drive/folders/1rX3ysmpgfZl-uJEOob3nin0lfiDsxjxw
 
+https://drive.google.com/drive/folders/1rX3ysmpgfZl-uJEOob3nin0lfiDsxjxw
 
 
-مرفق لكم هنا ملفات المشاريع الذي قمنا بالعمل عليها وايضا ملفات بعض من منهج المعسكر ومجموعة الموديلز 
+مرفق لكم هنا ملفات المشاريع الذي قمنا بالعمل عليها اثناء رحلة تدريبنا مع T5 وايضا ملفات بعض من منهج المعسكر ومجموعة الموديلز 
 
 رابط قروب تجميعات المعسكر وكل التفاصيل التي تخصه 
 
